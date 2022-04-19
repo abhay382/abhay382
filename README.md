@@ -17,6 +17,6 @@ Libraries & Tools: AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Lear
 Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical Foundation, Model Development & Evaluation Metrics, Quantitative Methods, Google Analytics.
 
 How to reach me 📱
-Known on internet as rowhitswami
+Known on internet as Abhaysingh
 abhayabhaysingh330@gmail.com
     
