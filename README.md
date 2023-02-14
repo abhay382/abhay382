@@ -1,5 +1,5 @@
 
-Hi there 👋
+
 Hi there 👋🏻
 I am currently working as a Busines Consultant and Data Analyst s. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
