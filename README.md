@@ -3,7 +3,7 @@
 Hi there 👋🏻
 I am currently working as a Busines Consultant and Data Analyst s. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
-In the past, I have worked with InterviewBit and upGrad as a Data Science Intern. 
+ 
 
 Things I'm good at 🔥
 Domain: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science, Data Wrangling, Data Visualization, and Data Warehousing.
