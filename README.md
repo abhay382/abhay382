@@ -1,7 +1,6 @@
 
 
 Hi there 👋🏻
-I am currently working as a Busines Consultant and Data Analyst s. I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
 
  
 
@@ -10,7 +9,7 @@ Domain: Natural Language Processing, Image Processing, Machine Learning, Deep Le
 
 Languages: Python, SQL, HTML, CSS, JavaScript, Ruby.
 
-Framework: Flask, Ruby on Rails, AngularJS, React, Bootstrap.
+Framework: Flask, Ruby on Rails, django, React, Bootstrap.
 
 Libraries & Tools: AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, SciPy, Matplotlib, D3.js, PyTorch, Keras, NLTK, Sentry.
 
