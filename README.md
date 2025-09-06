@@ -18,5 +18,5 @@ Data Analysis: Exploratory Data Analysis, Ensemble Methods, Strong Statistical F
 How to reach me 📱
 Known on internet as Abhaysingh
 abhayabhaysingh330@gmail.com
-    
+https://docs.google.com/spreadsheets/d/1htagnuItQJxx8QQZaapSQbl3qc6V3K_P/edit?usp=sharing&ouid=100182153018671650281&rtpof=true&sd=true    
 
