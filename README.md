@@ -160,7 +160,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:ff00cc&height=180&section=footer"/>
 
-<h2>🔥 THIS PROFILE IS BUILT TO BE REMEMBERED 🔥</h2>
+<h2>🔥  🔥</h2>
 
 </div>
 
