@@ -1,148 +1,193 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ===================== HERO SECTION ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:6A00FF&height=220&section=header&text=Abhay%20Singh&fontSize=48&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=260&section=header&text=Abhay%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-### 🚀 AI / ML Engineer | Data Scientist | Full-Stack Developer | LLM Engineer
+<h2>🚀 AI / ML Engineer • Data Scientist • Full-Stack Developer • LLM Engineer</h2>
 
-<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%7C+Machine+Learning+%7C+LLMs;Data+Science+%7C+Big+Data+%7C+Data+Engineering;NLP+%7C+Computer+Vision+%7C+Deep+Learning;Cloud+Computing+%7C+DevOps+%7C+MERN+Stack;Building+Scalable+Intelligent+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=24&color=00E5FF&center=true&vCenter=true&width=1000&lines=Artificial+Intelligence+%7C+Machine+Learning+%7C+LLMs;Data+Science+%7C+Big+Data+%7C+Data+Engineering;NLP+%7C+Computer+Vision+%7C+Deep+Learning;Cloud+Computing+%7C+DevOps+%7C+MERN+Stack;Turning+Ideas+Into+Production+AI+Systems" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI-Expert-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLM-Engineer-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20GCP%20%7C%20Azure-orange?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ======================= SUMMARY ======================= -->
-## 🔥 Professional Summary
+<!-- ===================== ABOUT ===================== -->
+## 🧠 About Me
 
-💡 AI & Data professional with deep expertise in **AI, ML, Data Science, Big Data, Cloud Computing, and Large Language Models (LLMs)**  
-📊 Strong background in **Data Analysis, Visualization, Dashboards, and Data Engineering pipelines**  
-☁️ Hands-on experience with **AWS, GCP, Azure, DevOps, Containerization, CI/CD**  
-🚀 Proven skills in **Full-Stack, Backend, Web & App Development**
+<table>
+<tr>
+<td width="60%">
 
----
+💡 I am a **highly driven AI & Data professional** with strong experience across  
+**Artificial Intelligence, Machine Learning, Data Science, Big Data, Cloud Computing, and Large Language Models (LLMs)**.
 
-<!-- ======================= AI / LLM ======================= -->
-## 🧠 AI • ML • NLP • LLM Stack
+🚀 I specialize in building **scalable, production-ready intelligent systems**, combining  
+**AI + Data + Cloud + Full-Stack Engineering**.
 
-- Artificial Intelligence (AI)
-- Machine Learning (ML)
-- Deep Learning
-- Large Language Models (LLMs)
-- Natural Language Processing (NLP)
-- Computer Vision & Image Processing
-- Prompt Engineering
-- Retrieval Augmented Generation (RAG)
-- Semantic Search & Embeddings
-- Hugging Face Transformers
-- Vector Databases: **Pinecone, Chroma**
+</td>
+<td width="40%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhay382&show_icons=true&theme=tokyonight" />
+
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- ======================= SKILL BADGES ======================= -->
-## 💻 Tech Stack (Visual)
+<!-- ===================== AI / LLM ===================== -->
+## 🤖 AI • ML • NLP • LLM ENGINE
 
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby)
+<div align="center">
 
----
+| Core AI Skills | Advanced Capabilities |
+|---------------|----------------------|
+| Artificial Intelligence (AI) | Prompt Engineering |
+| Machine Learning (ML) | RAG (Retrieval Augmented Generation) |
+| Deep Learning | Semantic Search |
+| Natural Language Processing (NLP) | Hugging Face Transformers |
+| Computer Vision | Vector DBs (Pinecone, Chroma) |
+| Large Language Models (LLMs) | Embeddings & Similarity Search |
 
-### Frameworks & Development
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+</div>
 
 ---
 
-### Data Science & Visualization
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+<!-- ===================== TECH GRID ===================== -->
+## 💻 Tech Stack (Website-Style)
+
+### 🧑‍💻 Programming
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,ruby,sql" />
+</p>
 
 ---
 
-### ML • DL • CV
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv)
-![YOLO](https://img.shields.io/badge/YOLOv8%2Fv9-00FFFF?style=for-the-badge)
+### 🌐 Frameworks & Development
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nodejs,bootstrap" />
+</p>
+
+✔ Full Stack Development  
+✔ Backend Development  
+✔ Web Development  
+✔ App Development  
+✔ MERN Stack (MongoDB, Express, React, Node)
 
 ---
 
-### Big Data • Cloud • DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark)
-![Hadoop](https://img.shields.io/badge/Hadoop-FF8C00?style=for-the-badge)
+### 📊 Data Science & Analytics
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pandas,numpy,sklearn,tensorflow,pytorch" />
+</p>
+
+- Data Analysis & Data Science  
+- Dashboards & Data Visualization  
+- Power BI, Excel, PowerPoint  
+- Statistical & Quantitative Analysis  
 
 ---
 
-<!-- ======================= DATABASE ======================= -->
+### 🧠 ML • DL • CV
+<p align="center">
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
+</p>
+
+- OpenCV  
+- YOLOv8 / YOLOv9  
+- Scikit-Learn, SciPy  
+- Keras, TensorFlow  
+
+---
+
+### ☁️ Cloud • DevOps • Big Data
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins" />
+</p>
+
+- AWS (EC2, S3, Lambda, ECS)  
+- GCP & Azure  
+- Docker & Containerization  
+- Kubernetes & Jenkins  
+- Apache Spark & Hadoop  
+- Data Engineering & Pipeline Automation  
+
+---
+
+<!-- ===================== DATABASE ===================== -->
 ## 🗄️ Databases & Storage
 
-- MySQL
-- PostgreSQL
-- MongoDB
-- Vector DBs: Pinecone, Chroma
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- Pinecone, Chroma (Vector Databases)
 
 ---
 
-<!-- ======================= PROJECTS ======================= -->
-## 🚀 Featured Projects
+<!-- ===================== PROJECTS ===================== -->
+## 🚀 Featured Projects (Showcase)
 
-- 🤖 AI Chatbot Platform (FastAPI + Rasa + LLM concepts)
-- 🛒 B2B & D2C E-Commerce Platform
-- 🏏 IPL Match Prediction System
-- 📧 Email Spam Detection (NLP)
-- 👁️ Face Recognition System
-- 🗳️ Blockchain Voting System
-- 🧾 Insurance Claim Fraud Detection (YOLOv8 / YOLOv9)
+<table>
+<tr>
+<td>🤖 <b>AI Chatbot Platform</b><br/>FastAPI + Rasa + LLM</td>
+<td>🛒 <b>B2B & D2C E-Commerce</b><br/>Django + MySQL</td>
+</tr>
+<tr>
+<td>🏏 <b>IPL Match Prediction</b><br/>ML + Flask</td>
+<td>📧 <b>Email Spam Detection</b><br/>NLP</td>
+</tr>
+<tr>
+<td>👁️ <b>Face Recognition</b><br/>OpenCV + DL</td>
+<td>🗳️ <b>Blockchain Voting</b><br/>Ethereum + Solidity</td>
+</tr>
+<tr>
+<td colspan="2" align="center">🧾 <b>Insurance Claim Fraud Detection</b> – YOLOv8 / YOLOv9</td>
+</tr>
+</table>
 
 ---
 
-<!-- ======================= GITHUB STATS ======================= -->
-## 📊 GitHub Analytics
+<!-- ===================== BUSINESS SKILLS ===================== -->
+## 📈 Business & Professional Skills
+
+✔ Digital Marketing  
+✔ SEO (Search Engine Optimization)  
+✔ Content Writing  
+✔ Communication Skills  
+✔ Software Engineering Practices  
+✔ Jira & Project Management  
+
+---
+
+<!-- ===================== CONTACT ===================== -->
+## 🌐 Connect With Me
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=abhay382&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhay382&theme=tokyonight" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay382&theme=tokyo-night" />
-
-</div>
-
----
-
-<!-- ======================= CONTACT ======================= -->
-## 🌐 Connect With Me
 
 📧 **Email:** abhaycoprate@yahoo.com  
 💼 **LinkedIn:** https://www.linkedin.com/in/abhay-s-827963313/  
 🧑‍💻 **GitHub:** https://github.com/abhay382  
-📊 **Skills Sheet:**  
-https://docs.google.com/spreadsheets/d/1htagnuItQJxx8QQZaapSQbl3qc6V3K_P/edit  
+
+</div>
 
 ---
 
+<!-- ===================== FOOTER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:00F7FF&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=footer"/>
 
-### ⚡ *Engineering Data, AI & Cloud Systems That Scale* ⚡
+### ⚡ *Designing Intelligent Systems That Scale in the Real World* ⚡
 
 </div>
 
